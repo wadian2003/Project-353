@@ -1,4 +1,3 @@
-# Project-353
 # IT353 Project
 ## Student Activities Management System (SAMS)
 
@@ -9,7 +8,8 @@
 | **Wadyan Aloufi** | Project Management, Gantt Chart, Mid Progress Report, Final Report Coordination |
 | **Jana Al Harbi** | Requirements Analysis, Use Case Identification, Use Case Diagram, Use Case Documentation |
 | **Rima Alqarni** | Data Flow Diagrams (Context Diagram, Level-0 DFD, Level-1 DFDs), Activity Diagrams |
-| **Nada Al Musaed** | UML Class Diagram, Database Design (ERD & Relational Schema), Prototype Design |
+| **Nada Al Musaed** | UML Class Diagram, Database Design (ERD & Relational Schema) |
+| **Fatimah** | Low-Fidelity Prototype Design, Report Formatting, GitHub Review, Quality Assurance (QA) |
 
 ---
 
